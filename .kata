@@ -1,0 +1,5 @@
+---
+name: Tic-Tac-Toe
+difficulty: 2
+test_runner: ruby
+id: 9
